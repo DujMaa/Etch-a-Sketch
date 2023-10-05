@@ -42,3 +42,7 @@ body {
 .grid-item {
   border: 1px solid black;
 }
+
+.gridSizeContainer {
+  width: 250px;
+}
